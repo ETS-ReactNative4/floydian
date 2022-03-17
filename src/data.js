@@ -6,7 +6,7 @@ export const CVData = {
       "https://res.cloudinary.com/dzxxb95vy/image/upload/v1647422968/1597708634972_lcv76h.jpg",
     contacts: [
       { type: "email", value: "lgelava7@gmail.com" },
-      { type: "phone", value: "+995 555 25 85 40" },
+      { type: "phone", value: "+995 592 02 78 50" },
       { type: "location", value: "Tbilisi" },
     ],
   },
@@ -81,8 +81,8 @@ export const CVData = {
             },
             {
               title: "Ecommerce App",
-              projectUrl: "https://github.com/LadoGelava910/gold",
-              description: "Public Repository",
+              // projectUrl: "https://github.com/LadoGelava910/gold",
+              description: "Comming Soon",
             },
             // {
             //   title: "We Support Ukraine App",
