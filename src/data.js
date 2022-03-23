@@ -63,36 +63,6 @@ export const CVData = {
         },
       ],
     },
-    {
-      type: "projects-list",
-      title: "Portfolio",
-      // description: "Optional",
-      icon: "tasks",
-      groups: [
-        {
-          sectionHeader: "Some of my projects",
-          description: "in MERN STACK",
-          items: [
-            {
-              title: "Social Media Mobile App",
-              projectUrl: "https://github.com/LadoGelava910/soc-media",
-              description:
-                "Send me a letter to my email to get access to this project",
-            },
-            {
-              title: "Ecommerce App",
-              // projectUrl: "https://github.com/LadoGelava910/gold",
-              description: "Comming Soon",
-            },
-            // {
-            //   title: "We Support Ukraine App",
-            //   projectUrl: "optional",
-            //   // description: "Optional",
-            // },
-          ],
-        },
-      ],
-    },
 
     {
       type: "common-list",
