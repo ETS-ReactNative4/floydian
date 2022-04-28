@@ -37,7 +37,7 @@ export const CVData = {
       icon: "archive",
       items: [
         {
-          title: "Lead Front End Developer",
+          title: "Front End Developer",
           company: "Citadeli",
           companyWebSite: "https://www.citadeli.com/",
           companyMeta: "building materials",
@@ -50,7 +50,7 @@ export const CVData = {
 
           companyWebSite: "https://exceed-team.com/en",
           companyMeta: "EXPERT IN CRM DEVELOPMENT",
-          datesBetween: "2018 - 2021",
+          datesBetween: "2021",
           descriptionTags: ["Javascript", "React", "React Native", "Node"],
         },
         {
@@ -59,7 +59,7 @@ export const CVData = {
           description: "Warming up.",
           companyWebSite: "https://exceed-team.com/en",
           companyMeta: "EXPERT IN CRM DEVELOPMENT",
-          datesBetween: "2018",
+          datesBetween: "2021",
         },
       ],
     },
